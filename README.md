@@ -7,7 +7,7 @@ A dark, space-inspired Omarchy theme built with [Aether](https://github.com/bjar
 ## Installation
 
 ```
-omarchy-theme-install https://github.com/<your-username>/omarchy-terra-theme.git
+omarchy-theme-install https://github.com/qempexe/omarchy-terra-theme.git
 ```
 
 ## Backgrounds
