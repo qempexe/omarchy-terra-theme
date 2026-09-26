@@ -20,4 +20,6 @@ This theme was created using [Aether](https://github.com/bjarneo/aether) by [@bj
 
 ## License
 
-MIT — applies to the theme configuration files. Background image(s) are included as-is; see [Backgrounds](#backgrounds) for sourcing.
+The MIT license (see LICENSE) applies to this repository's theme configuration files (colors.toml, icons.theme, etc.) only.
+
+The background image(s) in backgrounds/ are not covered by the MIT license - they are sourced from Wallpaper Access and included as-is; rights belong to their original creators.
